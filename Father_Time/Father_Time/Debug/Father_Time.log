@@ -1,0 +1,6 @@
+﻿  Father_Time.cpp
+c:\users\brant\source\repos\father_time\father_time\father_time.cpp(12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SetUp.cpp
+  Generating Code...
+Father_Time.obj : error LNK2019: unresolved external symbol "void __cdecl StartTimer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,int)" (?StartTimer@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH@Z) referenced in function _main
+C:\Users\brant\source\repos\Father_Time\Debug\Father_Time.exe : fatal error LNK1120: 1 unresolved externals
